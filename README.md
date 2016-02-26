@@ -277,8 +277,8 @@ These endpoints provide a list of possible values for specific search terms.
 
 ## License
 
-    The textual information presented through this repo and API about Magic: The Gathering is copyrighted by Wizards of the Coast.
+> The textual information presented through this repo and API about Magic: The Gathering is copyrighted by Wizards of the Coast.
     
-    This repo and API are not produced, endorsed, supported, or affiliated with Wizards of the Coast.
+> This repo and API are not produced, endorsed, supported, or affiliated with Wizards of the Coast.
 
 Distributed under the MIT license. See [LICENSE](LICENSE.txt) for more information.
