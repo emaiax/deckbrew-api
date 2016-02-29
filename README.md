@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/emaiax/deckbrew-api.svg?branch=master)](https://travis-ci.org/emaiax/deckbrew-api)
 [![Code Climate](https://codeclimate.com/github/emaiax/deckbrew-api/badges/gpa.svg)](https://codeclimate.com/github/emaiax/deckbrew-api)
+[![Test Coverage](https://codeclimate.com/github/emaiax/deckbrew-api/badges/coverage.svg)](https://codeclimate.com/github/emaiax/deckbrew-api/coverage)
 [![Dependency Status](https://gemnasium.com/emaiax/deckbrew-api.svg)](https://gemnasium.com/emaiax/deckbrew-api)
 
 > The DeckBrew API is the easiest way to get Magic: The Gathering information into your application. It's free to use with no sign-up required. This API wouldn't have been possible without the amazing [mtgjson](http://mtgjson.com) and [mtgimage](http://mtgimage.com) resources.
